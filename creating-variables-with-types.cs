@@ -21,3 +21,21 @@ namespace Form
     }
   }
 }
+
+/*
+// Declare an integer
+int myAge;
+myAge = 32;
+ */ 
+
+/*
+// Declare a string
+string countryName = "Netherlands";
+ */
+
+/*
+int evenNumber = 22;
+int oddNumber = 45;
+Console.WriteLine(evenNumber + oddNumber); // Prints 67
+Console.WriteLine(oddNumber - evenNumber); // Prints 23
+*/
